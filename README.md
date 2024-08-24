@@ -1,4 +1,4 @@
-Bienbenido
+Bienvenido
 
 Encriptador de Texto
 Este proyecto es un encriptador de texto que permite a los usuarios cifrar y descifrar mensajes utilizando un algoritmo de encriptación simple. Es ideal para proteger mensajes sensibles o para aprender sobre el funcionamiento básico de la encriptación.
